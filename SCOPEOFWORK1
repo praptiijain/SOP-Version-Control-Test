@@ -1,1 +1,6 @@
 THIS IS TEST FILE 1. CHECKING THE POSSIBILITY OF BEING ABLE TO MAINTAIN CLIENT SCOPE OF WORK HERE TO PREVENT CONFLICTS. 
+The idea is to be able to maintain different client sow and sop in a repository. 
+A github account represents a Company which is maintaining the documents for its client base. A repository is set in place for every client (Client= Repository).
+This will enable us to seamlessly track any changes made in the client code of works and any edits in the documents will be made via commits, which will automatically be tracked, along with the advantage of seamless collaboration at a single place.
+
+This idea is will help in preventing mess-ups that occur as a result of communication gaps, the efforts required to maintain multiple documents, sheets and actively keep updating any changes, along with the timeline.
